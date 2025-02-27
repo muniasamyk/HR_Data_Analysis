@@ -61,7 +61,7 @@ Click here ->
 https://github.com/muniasamyk/HR_Data_Analysis/blob/main/HR_Data_Analysis.png
 
 Dax_Visuals ->
-
+https://github.com/muniasamyk/HR_Data_Analysis/blob/main/Calculations.png
 
 ## Technology Used
 Power BI (for data visualization and interactive reports)
