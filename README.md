@@ -57,7 +57,10 @@ How many employees earn less than 20,000?
 What is the salary distribution across different job roles?
 
 ## 📷 Dashboard (HR)
+Click here -> 
 https://github.com/muniasamyk/HR_Data_Analysis/blob/main/HR_Data_Analysis.png
+
+Dax_Visuals ->
 
 
 ## Technology Used
