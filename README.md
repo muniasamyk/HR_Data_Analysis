@@ -1,4 +1,4 @@
-![Screenshot 2025-03-02 010323](https://github.com/user-attachments/assets/f2ca97b1-184b-4c10-a552-283b4b3da139)# HR Analytics Dashboard 📊👨‍💼 (Power BI)
+# HR Analytics Dashboard 📊👨‍💼 (Power BI)
 This repository contains an HR Analytics Dashboard built using Power BI, providing insights into employee attrition, 
 job satisfaction, department-wise statistics, and workforce trends.
 
@@ -58,9 +58,11 @@ What is the salary distribution across different job roles?
 
 ## 📷 Dashboard (HR)
 Click here -> 
+
 ![Screenshot 2025-03-02 010323](https://github.com/user-attachments/assets/7bdc0bfe-b40b-43fa-b8db-e757b3dc665f)
 
 Dax_Visuals ->
+
 ![Screenshot 2025-03-02 010550](https://github.com/user-attachments/assets/c9b86c29-e8cf-4b10-927c-cd8757c4830a)
 
 
