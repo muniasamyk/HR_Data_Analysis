@@ -58,7 +58,7 @@ What is the salary distribution across different job roles?
 
 ## 📷 Dashboard (HR)
 
-![Screenshot 2025-03-02 010323](https://github.com/user-attachments/assets/7bdc0bfe-b40b-43fa-b8db-e757b3dc665f)
+![image](https://github.com/user-attachments/assets/25ca88c6-c6f6-417f-abd8-e84f3b7ebc75)
 
 ## Dax Calculations
 
